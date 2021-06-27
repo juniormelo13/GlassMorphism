@@ -1,5 +1,5 @@
 # GLASSMORPHISM :mag:
 
-- Aplicando a técnica do GlassMorphism (efeito de vidro embaçado) com CSS.
+- Aplicação da técnica do GlassMorphism (efeito de vidro embaçado) com CSS.
 
-Em andamento.
+<img src="IMG/GlassMorphism.jpg">
