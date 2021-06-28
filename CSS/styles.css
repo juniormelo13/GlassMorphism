@@ -203,7 +203,7 @@ body {
 
 .card__footer div:nth-child(2) {
   display: flex;
-  justify-content: ;
+  justify-content: center;
   align-items: flex-end;
 }
 
